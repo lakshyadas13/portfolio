@@ -89,9 +89,9 @@ export default function App() {
                 "Tailwind CSS",
                 "shadcn/ui"
               ],
-              url: "",
-              liveDemo: "coming-soon",
-              comingSoon: true,
+              url: "https://portfolio-navy-delta-ds48vi4ik4.vercel.app/",
+              liveDemo: "https://portfolio-navy-delta-ds48vi4ik4.vercel.app/",
+              comingSoon: false,
               github: "https://github.com/lakshyadas13/portfolio",
               description:
                 "An interactive personal developer portfolio built around a macOS-inspired desktop experience, featuring Finder-style windows, a dock, and a custom pastel-blue aesthetic."
@@ -155,7 +155,7 @@ export default function App() {
         },
         {
           q: "What is Personal Portfolio?",
-          a: "An interactive personal developer portfolio built around a macOS-inspired desktop experience, featuring Finder-style windows, a dock, and a custom pastel-blue aesthetic."
+          a: "An interactive personal developer portfolio built around a macOS-inspired desktop experience, featuring Finder-style windows, a dock, and a custom pastel-blue aesthetic. Live at https://portfolio-navy-delta-ds48vi4ik4.vercel.app/."
         },
         {
           q: "What programming languages do you know?",

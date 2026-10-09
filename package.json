@@ -2,6 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://portfolio-navy-delta-ds48vi4ik4.vercel.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -2,7 +2,7 @@
 
 An interactive, macOS-inspired personal developer portfolio featuring a soft pastel-blue aesthetic, Finder-style windows, a dynamic dock, and desktop applications.
 
-Live at: [https://github.com/lakshyadas13/portfolio](https://github.com/lakshyadas13/portfolio)
+Live at: [https://portfolio-navy-delta-ds48vi4ik4.vercel.app/](https://portfolio-navy-delta-ds48vi4ik4.vercel.app/)
 
 ---
 
@@ -16,7 +16,7 @@ Live at: [https://github.com/lakshyadas13/portfolio](https://github.com/lakshyad
 - **Desktop Folders and Projects**:
   - **ManageX**: Full-stack task management system with JWT auth, priority alerts, weekly PDF generation, and Google Calendar sync.
   - **Lovelle Scrapbook**: A pastel-themed digital memory scrapbook web app built with Next.js, Tailwind CSS, and Supabase.
-  - **Personal Portfolio**: The interactive macOS desktop portfolio itself.
+  - **Personal Portfolio**: The interactive macOS desktop portfolio itself ([Live Demo](https://portfolio-navy-delta-ds48vi4ik4.vercel.app/)).
 
 - **Native Resume.pdf Viewer**:
   - Embedded in-app PDF document previewer that renders directly inside a macOS-style window without external redirects.
@@ -83,6 +83,7 @@ npm run build
 ## Contact and Links
 
 - **Developer**: Lakshya Das
+- **Live Portfolio**: [portfolio-navy-delta-ds48vi4ik4.vercel.app](https://portfolio-navy-delta-ds48vi4ik4.vercel.app/)
 - **Email**: [lk5767397@gmail.com](mailto:lk5767397@gmail.com)
 - **GitHub**: [github.com/lakshyadas13](https://github.com/lakshyadas13)
 - **LinkedIn**: [linkedin.com/in/lakshyadas](https://www.linkedin.com/in/lakshyadas)
